@@ -1,10 +1,5 @@
 [
     {
-        "timestamp": "2026-10-04T17:01:53.363849",
-        "raw_text": "Новосибирск, 4 октября - АиФ-Новосибирск. Пожар произошёл в Октябрьском районе Новосибирска. На улице Грибоедова, 147 загорелось двухэтажное здание, которое уже давно расселили и оставили заброшенным. Как сообщает АСТ-54, на место происшествия прибыли пожарные и медики. Причина возгорания пока неизвестна. Обстоятельства пожара устанавливаются.",
-        "link": "https://nsk.aif.ru/incidents/v-novosibirske-zagorelsya-zabroshennyy-dvuhetazhnyy-barak"
-    },
-    {
         "timestamp": "2026-10-04T18:02:06.374009",
         "raw_text": "Новосибирск, 4 октября - АиФ-Новосибирск. Новосибирская транспортная прокуратура начала проверку после травмирования женщины подвижным составом. Об этом сообщили в Западно-Сибирской транспортной прокуратуре. Кроме того, в Новосибирской области суд удовлетворил иск транспортного прокурора к предприятию железнодорожного транспорта. Бывшему сотруднику организации постановили выплатить компенсацию морального вреда. Также по представлению транспортной прокуратуры руководителя коммерческой организации привлекли к административной ответственности. Его оштрафовали за нарушение лицензионных требований.",
         "link": "https://nsk.aif.ru/incidents/zhenshchina-poluchila-travmy-na-zheleznoy-doroge-pod-novosibirskom"
@@ -338,5 +333,10 @@
         "timestamp": "2026-10-08T16:05:06.328553",
         "raw_text": "<p>Тройное ДТП произошло на улице Одоевского в Первомайском районе Новосибирска.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/08/trojnoe-dtp-proizoshlo-na-ulitse-odoevskogo-v-novosibirske\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/172AtRggvgCafxP2DWVZ.jpg\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/08/trojnoe-dtp-proizoshlo-na-ulitse-odoevskogo-v-novosibirske\">Читать новость полностью на Сиб.фм</a></p>",
         "link": "https://sib.fm/news/2026/10/08/trojnoe-dtp-proizoshlo-na-ulitse-odoevskogo-v-novosibirske"
+    },
+    {
+        "timestamp": "2026-10-08T17:04:33.661429",
+        "raw_text": "<p>Депутат Госдумы Анатолий Локоть прокомментировал атаку беспилотников на Омскую область. Об этом он написал в своем канале в мессенджере МАХ.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/08/deputat-gosdumy-lokot-otreagiroval-na-ataku-dronov-vsu-v-omskoj-oblasti\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/pg7ekQbtumrswVPI2jnJ.jpeg\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/08/deputat-gosdumy-lokot-otreagiroval-na-ataku-dronov-vsu-v-omskoj-oblasti\">Читать новость полностью на Сиб.фм</a></p>",
+        "link": "https://sib.fm/news/2026/10/08/deputat-gosdumy-lokot-otreagiroval-na-ataku-dronov-vsu-v-omskoj-oblasti"
     }
 ]
