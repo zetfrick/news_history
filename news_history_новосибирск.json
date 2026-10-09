@@ -1,10 +1,5 @@
 [
     {
-        "timestamp": "2026-10-05T05:00:40.454584",
-        "raw_text": "<p>\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/05/temperatura-do-15-gradusov-probki-v-7-ballov-i-kurs-dollara-83-rublya-glavnoe-na-5-oktyabrya-v-novosibirske\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/3QUDnOYFop3ujf2LVx0s.png\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/05/temperatura-do-15-gradusov-probki-v-7-ballov-i-kurs-dollara-83-rublya-glavnoe-na-5-oktyabrya-v-novosibirske\">Читать новость полностью на Сиб.фм</a></p>",
-        "link": "https://sib.fm/news/2026/10/05/temperatura-do-15-gradusov-probki-v-7-ballov-i-kurs-dollara-83-rublya-glavnoe-na-5-oktyabrya-v-novosibirske"
-    },
-    {
         "timestamp": "2026-10-05T06:01:29.497389",
         "raw_text": "<p>На Михайловской набережной Новосибирска этой осенью привлекает внимание китайский мискантус — декоративный многолетний злак с высокими пушистыми метёлками. Растение стало одним из украшений прогулочной зоны и органично вписалось в осенний городской пейзаж.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/05/zolotye-metelki-miskantusa-ukrasili-mihajlovskuyu-naberezhnuyu\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/dW9rCA6uL6lNk7PTUg7G.jpg\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/05/zolotye-metelki-miskantusa-ukrasili-mihajlovskuyu-naberezhnuyu\">Читать новость полностью на Сиб.фм</a></p>",
         "link": "https://sib.fm/news/2026/10/05/zolotye-metelki-miskantusa-ukrasili-mihajlovskuyu-naberezhnuyu"
@@ -333,5 +328,10 @@
         "timestamp": "2026-10-09T04:00:24.382111",
         "raw_text": "Новосибирск, 8 октября - АиФ-Новосибирск. Пожар произошёл 8 октября в квартире на девятом этаже десятиэтажного дома на улице Петухова в Новосибирске. Из-за сильного задымления спасателям пришлось эвакуировать 15 человек, в том числе полуторагодовалого ребёнка. На место происшествия прибыли 30 сотрудников МЧС и 10 единиц техники. Во время тушения огня спасатели проверяли соседние квартиры на наличие людей. Ещё более 80 жильцов самостоятельно покинули подъезд. Открытое горение удалось ликвидировать за 40 минут. Ещё через полчаса пожарные завершили неотложные работы. Площадь возгорания в квартире составила 30 квадратных метров. Полуторагодовалого ребёнка госпитализировали с подозрением на отравление продуктами горения. Медицинская помощь также потребовалась женщине, которая самостоятельно эвакуировалась из дома. Причину пожара устанавливают дознаватели.",
         "link": "https://nsk.aif.ru/incidents/polutoragodovalogo-rebyonka-evakuirovali-iz-goryashchey-kvartiry-v-novosibirske"
+    },
+    {
+        "timestamp": "2026-10-09T05:00:40.816543",
+        "raw_text": "Новосибирск, 8 октября - АиФ-Новосибирск. Тройное ДТП произошло на улице Одоевского в Первомайском районе Новосибирска. По предварительным данным, на дороге столкнулись хэтчбек Mitsubishi Mirage и кроссовер Haval H3. Также повреждения получил минивэн Toyota Vellfire, который находился рядом. На месте аварии работают сотрудники ГАИ и бригада скорой помощи. Информация о возможных пострадавших уточняется.",
+        "link": "https://nsk.aif.ru/incidents/tri-avtomobilya-stolknulis-v-pervomayskom-rayone-novosibirska"
     }
 ]
