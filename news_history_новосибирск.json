@@ -1,15 +1,5 @@
 [
     {
-        "timestamp": "2026-10-09T07:01:10.889271",
-        "raw_text": "<p>Генерал Сергей Суровикин может вернуться к командованию на СВО. Об этом на своей странице написал депутат Законодательного собрания Новосибирской области Виктор Кушнир.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/novosibirskij-deputat-prokommentiroval-vozmozhnoe-vozvraschenie-generala-surovikina-k-komandovaniyu-na-svo\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/s2F7iQHDtmrnCPBnOyGH.png\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/novosibirskij-deputat-prokommentiroval-vozmozhnoe-vozvraschenie-generala-surovikina-k-komandovaniyu-na-svo\">Читать новость полностью на Сиб.фм</a></p>",
-        "link": "https://sib.fm/news/2026/10/09/novosibirskij-deputat-prokommentiroval-vozmozhnoe-vozvraschenie-generala-surovikina-k-komandovaniyu-na-svo"
-    },
-    {
-        "timestamp": "2026-10-09T08:01:38.706758",
-        "raw_text": "<p>В Новосибирске и других населённых пунктах области 9 октября могут временно прервать трансляцию федеральных телеканалов и радиостанций. Это связано с плановой проверкой региональной системы оповещения населения.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/v-novosibirske-perestanet-rabotat-televidenie-9-oktyabrya\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/OTV8AUUWWd4iZlY4hBkw.jpg\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/v-novosibirske-perestanet-rabotat-televidenie-9-oktyabrya\">Читать новость полностью на Сиб.фм</a></p>",
-        "link": "https://sib.fm/news/2026/10/09/v-novosibirske-perestanet-rabotat-televidenie-9-oktyabrya"
-    },
-    {
         "timestamp": "2026-10-09T09:04:35.333010",
         "raw_text": "<p>В Новосибирской области в пятницу, 9 октября, проведут проверку системы оповещения населения. С 10:40 до 10:50 в регионе включат уличные электросирены и громкоговорители, а теле- и радиоканалы передадут специальное сообщение. Об этом сообщили в ГУ МЧС России по региону.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/v-novosibirskoj-oblasti-9-oktyabrya-zavoyut-sireny-chto-nuzhno-znat-zhitelyam\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/ImaUFZoFfhWTji3y4zjU.png\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/09/v-novosibirskoj-oblasti-9-oktyabrya-zavoyut-sireny-chto-nuzhno-znat-zhitelyam\">Читать новость полностью на Сиб.фм</a></p>",
         "link": "https://sib.fm/news/2026/10/09/v-novosibirskoj-oblasti-9-oktyabrya-zavoyut-sireny-chto-nuzhno-znat-zhitelyam"
@@ -644,5 +634,11 @@
         "title": "Жители Новосибирской области всё чаще отдают предпочтение профессии оператора БПЛА",
         "raw_text": "Кандидаты проходят обучение и заключают договоры с Министерством обороны РФ для службы в войсках беспилотных систем. Читать новость полностью на Сиб.фм",
         "link": "https://sib.fm/news/2026/10/16/zhiteli-novosibirskoj-oblasti-vse-chasche-otdayut-predpochtenie-professii-operatora-bpla"
+    },
+    {
+        "timestamp": "2026-10-16T08:01:48.237852",
+        "title": "В Новосибирской области «ЭкоНива» отреагировала на заявление рабочих о невыплате зарплаты",
+        "raw_text": "Группа компаний «ЭкоНива» отреагировала на публикацию Сиб.фм о трудовом конфликте на строительстве завода «Сибирская академия молочных наук» в Маслянинском районе. Ранее рабочие субподрядной организации «Спектрум-С» заявили о многомесячных долгах по зарплате, шестидневной забастовке и давлении со стороны руководства. В холдинге прокомментировали ситуацию. Читать новость полностью на Сиб.фм",
+        "link": "https://sib.fm/news/2026/10/16/v-novosibirskoj-oblasti-ekoniva-otreagirovala-na-zayavlenie-rabochih-o-nevyplate-zarplaty"
     }
 ]
