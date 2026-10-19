@@ -1,10 +1,5 @@
 [
     {
-        "timestamp": "2026-10-12T11:02:07.840769",
-        "raw_text": "<p>В Новосибирске завершают подключение отопления. На 12 октября тепло поступило в 97,4% жилых домов. Об этом на оперативном совещании сообщил мэр Максим Кудрявцев, отметив, что работы идут быстрее запланированного срока.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/12/v-novosibirske-otoplenie-poyavilos-pochti-vo-vseh-zhilyh-domah\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/YvPcirXNrH5QOwxuNycO.jpg\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/12/v-novosibirske-otoplenie-poyavilos-pochti-vo-vseh-zhilyh-domah\">Читать новость полностью на Сиб.фм</a></p>",
-        "link": "https://sib.fm/news/2026/10/12/v-novosibirske-otoplenie-poyavilos-pochti-vo-vseh-zhilyh-domah"
-    },
-    {
         "timestamp": "2026-10-12T12:01:54.294180",
         "raw_text": "<p>Президент США Дональд Трамп заявил о заключении энергетического перемирия между Россией и Украиной. В интервью с Сиб.фм комбриг и уполномоченный по правам предпринимателей Андрей Панферов предположил, что это не изменит ход конфликта и вероятнее всего, атаки на НПЗ не закончатся.\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/12/novosibirskij-kombrig-panferov-prokommentiroval-zayavlenie-trampa-o-energeticheskom-peremirii-rossii-i-ukrainy\"><img border=\"0\" src=\"https://sib.fm/storage/article/October2026/r1xzTpOrAwYh0DK42t9l.png\" width=\"640\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t<a href=\"https://sib.fm/news/2026/10/12/novosibirskij-kombrig-panferov-prokommentiroval-zayavlenie-trampa-o-energeticheskom-peremirii-rossii-i-ukrainy\">Читать новость полностью на Сиб.фм</a></p>",
         "link": "https://sib.fm/news/2026/10/12/novosibirskij-kombrig-panferov-prokommentiroval-zayavlenie-trampa-o-energeticheskom-peremirii-rossii-i-ukrainy"
@@ -688,5 +683,11 @@
         "title": "Не давайте детям смотреть новости: психолог из Новосибирска объяснила, как помочь ребёнку справиться со страхом",
         "raw_text": "Дети дошкольного возраста могут снова и снова задавать вопросы о пожарах, авариях и смерти, пересказывать страшные истории и разыгрывать тревожные ситуации в играх. Такое поведение не обязательно говорит о проблемах с психикой: таким образом ребёнок пытается осмыслить пугающие события и справиться со страхом. Об этом Сиб.фм рассказала старший преподаватель кафедры теории и методики дошкольного образования Института детства НГПУ Людмила Фоминых. Читать новость полностью на Сиб.фм",
         "link": "https://sib.fm/news/2026/10/19/ne-davajte-detyam-smotret-novosti-psiholog-iz-novosibirska-obyasnila-kak-pomoch-rebenku-spravitsya-so-strahom"
+    },
+    {
+        "timestamp": "2026-10-19T11:06:05.462139",
+        "title": "За неделю в Новосибирске ликвидировали 24 пожара",
+        "raw_text": "Новосибирcк, 19 октября - АиФ-Новосибирск. За неделю в Новосибирске произошло 24 пожара, из них 14 — в жилом секторе: восемь в многоквартирных домах, один в индивидуальном, ещё один в дачных и садовых обществах и четыре в прочих строениях — банях, гаражах и надворных постройках. В нежилых зданиях зафиксировано два пожара, один — на транспортном средстве, а на прочих объектах — семь. Специалисты управления мэрии Новосибирска по делам гражданской обороны, чрезвычайным ситуациям и обеспечению пожарной безопасности предупреждают, что из-за использования печного отопления может возникнуть задымление помещения: чтобы избежать этого, не используйте отсыревшее топливо, не перекрывайте дымоход и следите за притоком воздуха в камеру сгорания — особую опасность представляет угарный газ, который не имеет запаха, поэтому повышение его концентрации до опасных для человека значений часто проходит незаметно. В случае возникновения внештатных ситуаций нужно звонить 101 или 112.",
+        "link": "https://nsk.aif.ru/incidents/za-nedelyu-v-novosibirske-likvidirovali-24-pozhara"
     }
 ]
